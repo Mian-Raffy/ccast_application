@@ -3,8 +3,7 @@ ccast is a simple and user-friendly media app designed to let you explore and en
 # Key Features
 Media Explorer:
 Easily browse and view videos, listen to audio, and enjoy your favorite music in one app.
-Favorites:
-Tap the heart icon to mark any content as your favorite and access it later with just a click.
+
 Sleek Custom Buttons and Tabs:
 Experience a modern design with unique buttons and a clean tab layout.
 Carousel for Quick Navigation:
