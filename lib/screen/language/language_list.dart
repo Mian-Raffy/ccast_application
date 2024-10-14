@@ -1,0 +1,17 @@
+List<String> languages = [
+  'Mandarin Chinese',
+  'Spanish',
+  'Hindi',
+  'French',
+  'Arabic',
+  'Bengali',
+  'Portuguese',
+  'Russian',
+  'English',
+  'German',
+  'Korean',
+  'Italian',
+  'Turkish',
+  'Vietnamese',
+  'Persian',
+];
